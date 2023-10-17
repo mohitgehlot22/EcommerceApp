@@ -1,0 +1,21 @@
+
+{
+    "routes" : [
+        {
+            "src" : "/",
+            "dest" : "/"
+        },
+        {
+            "src" : "/[pulldata]",
+            "dest" : "/"  
+        },
+        {
+            "src" : "/addtocart",
+            "dest" : "/" 
+        },
+        {
+            "src" : "/wishlist",
+            "dest" : "/" 
+        }
+    ]
+}
